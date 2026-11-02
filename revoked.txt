@@ -1,4 +1,4 @@
 # AutoPDF - bekor qilingan kalitlar ro'yxati (imzolangan). Qo'lda o'zgartirmang: AutoPDF.Keygen --revoke ishlating.
-T=1793617782
-S=1002
-SIG=g6Sb4sj6uWkf67YA1cejuhOq8W7C0MfH9ffv9XscY72Bk/Ved9AXwTNRwbQDlj2P65378CLWXkHwW0ssCuYlyg==
+T=1793618568
+S=
+SIG=1xCng1X0U3jOjFqliTONWEEa/ZkxFka5GjsQpjY/yiT7kf3RKN1wEq8j6aOihqDTYoqjLLvYlgM+9pFxW0cWDQ==
