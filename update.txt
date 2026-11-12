@@ -1,6 +1,6 @@
 # AutoPDF - yangilanish ma'lumoti (imzolangan). Qo'lda o'zgartirmang.
 V=1.0.2
-URL=https://github.com/AutoPDFuz/autopdf-licenses/releases/download/v1.0.2/AutoPDF-1.0.2.zip
-H=d2671d866bc3054bc3b1169ba27f9cc7102e48f13909698e8d0bda1772c900a5
-T=1794481532
-SIG=9mlVsmiv9KqVUB322w0gUCDcCbHBlxcFmn9jy1nxUURHP+5K56boKNJJVF+kgCuXzwdxHAKq/yjkHxWeiCuz2g==
+URL=https://github.com/autopdfuz/autopdf-licenses/releases/download/v1.0.2/AutoPDF-1.0.2.zip
+H=b32ad808fc07d0a93041bae8ddcf9cace1207dbeeb9989097dd91d3bf29020fb
+T=1794493520
+SIG=LTB1az/Tf9HABt+WwnlHZz7pykNXIbgh8LQzrsGmhrxyx4Y3jHiFnOZF8cxEPIsuVWar4yVIsdGfWGAE2rOtuw==
